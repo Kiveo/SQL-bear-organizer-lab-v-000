@@ -1,4 +1,11 @@
 INSERT INTO bears (
+  name,
+  name,
+  name,
+  name,
+  name,
+  name,
+  name,
   name
 ) VALUES (
   "Mr. Chocolate",
