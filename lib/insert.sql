@@ -15,7 +15,7 @@ INSERT INTO bears (
   "Melissa",
   "Grinch",
   "Wendy",
-  "Jonny"
+  NULL
 );
 
 
