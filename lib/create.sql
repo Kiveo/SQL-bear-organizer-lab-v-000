@@ -5,7 +5,7 @@ CREATE TABLE bears (
   gender CHAR,  --"M" or "F"
   color TEXT,
   temperament TEXT,
-  alive BOOLEAN
+  alive BOOLEAN    --"0" or "1" in sqlite3
 );
 
 
