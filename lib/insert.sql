@@ -1,13 +1,13 @@
-INSERT INTO bears (name)
+INSERT INTO bears (name, age, gender, color, temperament, alive)
  VALUES (
-  "Mr. Chocolate",
-  "Rowdy",
-  "Tabitha",
-  "Sergeant Brown",
-  "Melissa",
-  "Grinch",
-  "Wendy",
-  NULL
+  "Mr. Chocolate", null, null, null, null, null, null,
+  "Rowdy", null, null, null, null, null, null,
+  "Tabitha", null, null, null, null, null, null,
+  "Sergeant Brown", null, null, null, null, null, null,
+  "Melissa", null, null, null, null, null, null,
+  "Grinch", null, null, null, null, null, null,
+  "Wendy", null, null, null, null, null, null,
+  NULL, null, null, null, null, null, null
 );
 
 
@@ -24,10 +24,10 @@ INSERT INTO bears (name)
 --    refer back to how to create a record that doesn't have one value)
 
 
--- id	integer
--- name	text
--- age	integer
--- gender	char(1)(The choices would be "M" or "F")
--- color	text
--- temperament	text
--- alive	boolean
+--1 id	integer
+--2 name	text
+--3 age	integer
+--4 gender	char(1)(The choices would be "M" or "F")
+--5 color	text
+--6 temperament	text
+--7 alive	boolean
