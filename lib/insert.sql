@@ -1,4 +1,4 @@
-INSERT INTO bears ('name', 'name')
+INSERT INTO bears ('name', 'name', 'name', 'name', 'name', 'name', 'name', 'name')
  VALUES (
   "Mr. Chocolate",
   "Rowdy",
