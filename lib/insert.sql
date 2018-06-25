@@ -1,12 +1,12 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
  VALUES (
-  ("Mr. Chocolate", null, null, null, null, null, null) 
-  ("Rowdy", null, null, null, null, null, null)
-  ("Tabitha", null, null, null, null, null, null)
-  ("Sergeant Brown", null, null, null, null, null, null)
-  ("Melissa", null, null, null, null, null, null)
-  ("Grinch", null, null, null, null, null, null)
-  ("Wendy", null, null, null, null, null, null)
+  ("Mr. Chocolate", null, null, null, null, null, null),
+  ("Rowdy", null, null, null, null, null, null),
+  ("Tabitha", null, null, null, null, null, null),
+  ("Sergeant Brown", null, null, null, null, null, null),
+  ("Melissa", null, null, null, null, null, null),
+  ("Grinch", null, null, null, null, null, null),
+  ("Wendy", null, null, null, null, null, null),
   (NULL, null, null, null, null, null, null)
 );
 
