@@ -1,13 +1,13 @@
 INSERT INTO bears (id, name, age, gender, color, temperament, alive)
  VALUES
-  (1, "Mr. Chocolate", null, null, null, null, null, null),
-  (2, "Rowdy", null, null, null, null, null, null),
-  (3, "Tabitha", null, null, null, null, null, null),
-  (4, "Sergeant Brown", null, null, null, null, null, null),
-  (5, "Melissa", null, null, null, null, null, null),
-  (6, "Grinch", null, null, null, null, null, null),
-  (7, "Wendy", null, null, null, null, null, null),
-  (8, NULL, null, null, null, null, null, null)
+  (1, "Mr. Chocolate", null, null, null, null, null),
+  (2, "Rowdy", null, null, null, null, null),
+  (3, "Tabitha", null, null, null, null, null),
+  (4, "Sergeant Brown", null, null, null, null, null),
+  (5, "Melissa", null, null, null, null, null),
+  (6, "Grinch", null, null, null, null, null),
+  (7, "Wendy", null, null, null, null, null),
+  (8, NULL, null, null, null, null, null)
 ;
 
 
