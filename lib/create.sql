@@ -2,6 +2,7 @@ CREATE TABLE bears (
   id TEXT PRIMARY KEY,
   name TEXT,
   age INTEGER,
+  gender CHAR,  --"M" or "F"
   color TEXT,
   temperament TEXT,
   alive BOOLEAN
